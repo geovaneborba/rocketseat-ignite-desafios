@@ -1,4 +1,5 @@
-<img alt="Ignite" src="" />
+<img alt="Banner do Ignite" src="./assets/banner.png"  />
+
 <h2 align="center">
   Desafios do Ignite
 </h2>
@@ -9,4 +10,4 @@
 
 ---
 
-Feito com ❤️ Geovane Borba
+<h6 align="center">Feito com ❤️ Geovane Borba </h6>
