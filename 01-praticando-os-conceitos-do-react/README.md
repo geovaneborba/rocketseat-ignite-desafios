@@ -68,15 +68,18 @@ Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](htt
 # Clone este repositório
 $ git clone https://github.com/geovaneborba/rocketseat-ignite-desafios.git
 
-# Entre na pasta
-$ cd 01-praticando-os-conceitos-do-react
+# Entre na pasta rocketseat-ignite-desafios e logo após entre na pasta
+# 01-praticando-os-conceitos-do-react
+$ cd rocketseat-ignite-desafios/01-praticando-os-conceitos-do-react
 
 # Instale as dependências
 $ npm install
 
 # Para iniciar o projeto
 $ npm run dev
-# O app vai inicializar em < http://localhost:5173 />
+
+# O app vai inicializar e será informado no terminal o endereço e porta onde estará rodando a aplicação
+# geralmente é http://localhost:5173/
 
 ```
 
