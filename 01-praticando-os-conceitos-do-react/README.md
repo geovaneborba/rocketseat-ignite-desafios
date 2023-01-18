@@ -9,6 +9,8 @@
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#warning-pré-requisitos"> Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/geovaneborba" target="_blank">Autor</a>
 </p>
@@ -51,6 +53,32 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+
+## :warning: Pré-requisitos
+
+Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+
+## :checkered_flag: Começando
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/geovaneborba/rocketseat-ignite-desafios.git
+
+# Entre na pasta
+$ cd 01-praticando-os-conceitos-do-react
+
+# Instale as dependências
+$ npm install
+
+# Para iniciar o projeto
+$ npm run dev
+# O app vai inicializar em < http://localhost:5173 />
+
+```
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
