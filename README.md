@@ -7,6 +7,7 @@
 ## Índice de desafios
 
 - [01 - Praticando os conceitos do React](https://github.com/geovaneborba/rocketseat-ignite-desafios/tree/master/01-praticando-os-conceitos-do-react)
+- [02 - Coffee Delivery](https://github.com/geovaneborba/rocketseat-ignite-desafios/tree/master/02-coffee-delivery)
 
 ---
 
